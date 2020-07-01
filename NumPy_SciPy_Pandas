@@ -36,3 +36,5 @@ For syntax and example refer to the Jupyter Notebbok.
 
 
 3. Zeros(): Creates  Array filled with zero. For syntax and example refer to the Jupyter Notebbok.
+
+4. Ones(): Creates  Array filled with zero.
