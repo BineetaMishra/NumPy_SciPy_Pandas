@@ -14,3 +14,15 @@ ADVANTAGES OF ARRAY OVER LISTS:
 1. Consumes less memory
 2.Fast.
 3. Convenient to use when we do mathematical operations.
+
+
+ARRAYS:
+
+There are different functions to create NumPy Arrays:
+1. Array()
+2. Arrange()
+3. Zeros()
+4. Ones()
+5. Linspace()
+6. Eye()
+7. Random()
