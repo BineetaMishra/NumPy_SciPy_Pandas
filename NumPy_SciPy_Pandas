@@ -33,3 +33,6 @@ There are different functions to create NumPy Arrays:
 
 2. Arrange(): This is Array Range. This function returns evenly spaced  numeric values within an interval stored as NumPY array.
 For syntax and example refer to the Jupyter Notebbok.
+
+
+3. Zeros(): Creates  Array filled with zero. For syntax and example refer to the Jupyter Notebbok.
