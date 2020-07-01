@@ -60,3 +60,11 @@ ATTRIBUTES OF ARRAYS:
 3. SIZE: The total number of elements in the Array. This is the product of elements of array shape.For syntax and example refer to the Jupyter Notebbok.
 4. Dtype: Datatype. Describes the data type of the array.
 5. itemsize: This is the size in byte of each element of the array. Size of each item of Array in byte.For syntax and example refer to the Jupyter Notebbok.
+
+
+Datatype in NumPy Library.
+1. Boolean
+2. Integer
+3. Unsigned integer
+4. Float
+5. Complex
