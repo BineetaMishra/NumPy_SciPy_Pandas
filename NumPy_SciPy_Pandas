@@ -38,3 +38,6 @@ For syntax and example refer to the Jupyter Notebbok.
 3. Zeros(): Creates  Array filled with zero. For syntax and example refer to the Jupyter Notebbok.
 
 4. Ones(): Creates  Array filled with zero.
+
+5. Linspace(): Creates sequence of evenly spaced values within a defined interval. It also gives values in the specified range. 
+And the values are evenly spaces like the arrange function. For syntax and example refer to the Jupyter Notebbok
