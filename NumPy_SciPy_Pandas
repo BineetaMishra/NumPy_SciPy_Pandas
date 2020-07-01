@@ -51,3 +51,9 @@ a) rand()
 b) randn()
 c) randf()
 d) randint()
+
+
+ATTRIBUTES OF ARRAYS:
+
+1. DIMENSIONS: To find the dimension of array use the attribute "ndim".For syntax and example refer to the Jupyter Notebbok.
+2. SHAPE: It is the number of integers showing the number of elements stored in each dimension of array.For syntax and example refer to the Jupyter Notebbok.
