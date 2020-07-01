@@ -26,3 +26,10 @@ There are different functions to create NumPy Arrays:
 5. Linspace()
 6. Eye()
 7. Random()
+
+
+
+1. Array(): Very similar to Mathematical Array. Refer to the Jupyter Notebook.
+
+2. Arrange(): This is Array Range. This function returns evenly spaced  numeric values within an interval stored as NumPY array.
+For syntax and example refer to the Jupyter Notebbok.
