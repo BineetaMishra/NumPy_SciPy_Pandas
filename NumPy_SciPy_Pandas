@@ -121,5 +121,10 @@ DIFFERENCE BETWEEN FLATEN AND RAVEL:
 
 5. Transpose: numpy.transpose(array,axes=None)
 6. Swapaxes: numpy.array(array,axis1,axis2)
-7. Splitting: 
+7. Splitting:  numpy.split(array,section,axis=0)
 8. Joining Arrays
+
+Numpy provides two more methods for joining of Arrays or concatenating that is:
+1. Hstack and 2. Vstack :  numpy.vstack((tuple))
+In vstack array should be of same size and we get a 2d array as o/p.
+Hstack: used to combine the elements horizontally. numpy.hstack((tuple))
