@@ -87,4 +87,10 @@ In Advanced indexing we can access elements of an array arbitarily permitting it
 Basic indexing: a[index] ,  Slicing : a[start:stop:step].
 
 Advance indexing returns the copy of the data and here we can use Ndarray.
-there are 2 types, a) INTEGER INDEXING ,  b) ADVANCE INDEXING
+there are 2 types, a) INTEGER INDEXING ,  b) ADVANCE INDEXING.
+
+ARITHEMETIC OPERATION IN NUMPY ARRAYS.
+This can be done in 2 ways:
+
+1. Using Scalas
+2. Between Arrays.
