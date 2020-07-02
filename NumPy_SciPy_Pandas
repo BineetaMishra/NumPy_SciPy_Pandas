@@ -123,7 +123,11 @@ DIFFERENCE BETWEEN FLATEN AND RAVEL:
 6. Swapaxes: numpy.array(array,axis1,axis2)
 7. Splitting:  numpy.split(array,section,axis=0)
 8. Joining Arrays
+9. insert: numpy.insert(array,object,value,axis=None)
+10. Delete: 
+11. Append: numpy.append(array,values,axis=None). This function will insert the values at the end of the array.
 
+Joining Arrays:
 Numpy provides two more methods for joining of Arrays or concatenating that is:
 1. Hstack and 2. Vstack :  numpy.vstack((tuple))
 In vstack array should be of same size and we get a 2d array as o/p.
