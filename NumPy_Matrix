@@ -1,1 +1,18 @@
+In Python we can implement matrix using
+a) Nested Lists
+b) Numpy Arrays
+c) Matrix: Using a class called matrix in Numpy library.
 
+Matrix Addition (+)
+Multiplication  We use dot method. Array multiplication is diff than matrix multiplication. (a.dot(b))
+Transpose of Matrix: numpy.transpose(a)  OR a.transpose
+
+
+MATRIX CLASS:
+numpy.matrix(data, dtype=None, Copy=True)
+
+DIFFERENCES BETWEEN ARRAY AND MATRIX:
+1. Matrix can be created using string notation.
+2. Matrix objects are always 2D.
+3. Can use * for MAtrix  multiplication.
+4. 
