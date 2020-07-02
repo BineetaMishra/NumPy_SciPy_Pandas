@@ -79,3 +79,12 @@ Negative indexing can also be applied.
 To retrive a single value we need indexing. To retrive a multiple value (collection of values) we need slicing.
 indexing: a[2]
 slicing: a[1:5]
+
+Both Slicing and indexing are parts of Basic Indexing.
+
+In Advanced indexing we can access elements of an array arbitarily permitting items to be accessed out of order and even repeatedly.
+
+Basic indexing: a[index] ,  Slicing : a[start:stop:step].
+
+Advance indexing returns the copy of the data and here we can use Ndarray.
+there are 2 types, a) INTEGER INDEXING ,  b) ADVANCE INDEXING
