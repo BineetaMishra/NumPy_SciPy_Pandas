@@ -117,3 +117,7 @@ ARRAY MANIPULATION:
 4. RAVEL:
 
 DIFFERENCE BETWEEN FLATEN AND RAVEL:
+
+
+5. Transpose: numpy.transpose(array,axes=None)
+6. Swapaxes: numpy.array(array,axis1,axis2)
