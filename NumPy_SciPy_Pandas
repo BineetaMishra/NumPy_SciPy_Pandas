@@ -68,3 +68,14 @@ Datatype in NumPy Library.
 3. Unsigned integer
 4. Float
 5. Complex
+
+
+SLICING AND INDEXING OPERATION:
+To get the subset of Array or the sub array then indexing and slicing operation is required. 
+
+INDEXING:
+Similar to list we can access the elements of array using indexing. It follows a zero-based indexing.
+Negative indexing can also be applied.
+To retrive a single value we need indexing. To retrive a multiple value (collection of values) we need slicing.
+indexing: a[2]
+slicing: a[1:5]
