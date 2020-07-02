@@ -94,3 +94,11 @@ This can be done in 2 ways:
 
 1. Using Scalas
 2. Between Arrays.
+Functions related to the arithemetic operations:
+
+a+b:  numpy.add(a,b)
+a-b:  numpy.substract(a,b)
+a*b:  numpy.multiply(a,b)
+a/b:  numpy.divide(a,b)
+a%b:  numpy.mod(a,b)
+a**b: numpy.power(a,b)
