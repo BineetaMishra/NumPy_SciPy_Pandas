@@ -109,3 +109,9 @@ BROADCASTING rules: When these rules are staisfied then we can perform Arithemet
 Rule 1: If the two arrays differ in their number of dimensions, the shape of the one with fewer dimensions is padded with ones on its leading (left) side.
 Rule 2: If the shape of the two arrays does not match in any dimension, the array with shape equal to 1 in that dimension is stretched to match the other shape.
 Rule 3: If in any dimension the sizes disagree and neither is equal to 1, an error is raised.
+
+ARRAY MANIPULATION:
+1. RESHAPE:
+2. RESIZE:
+3. FLATTEN
+4. RAVEL:
